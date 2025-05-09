@@ -23,7 +23,7 @@ get_header();
 <div class="main-box">
   <section class="aud-hero">
     <div class="aud-hero-inner">
-      
+	<p>これはテストの追加文です</p>
       <!-- 左のテキスト画像 -->
       <div class="top-text">
         <img src="/wp-content/uploads/2025/05/new-main-title-text@2x-8.png" alt="RuLaugh Production Audition" class="aud-hero-text-img hero-text animated-load delayed" data-aos="fade-left" data-aos-delay="500" data-aos-duration="3000">
